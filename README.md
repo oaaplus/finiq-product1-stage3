@@ -1,0 +1,1 @@
+FinIQ Product 1 Stage 3. Upload app.py, requirements.txt, README.md and data folder to GitHub root. Streamlit main file: app.py
